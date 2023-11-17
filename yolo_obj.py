@@ -6,7 +6,7 @@ from PIL import Image
 
 
 # YOlO model Version
-YMV = "yolov8n.pt"
+YMV = "yolov8x.pt"
 
 
 def get_image_dimensions(url):
